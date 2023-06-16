@@ -1,13 +1,13 @@
 
 ## Project Names
-### Personal Portfolio
+- Personal Portfolio
 - Travel
 - Bank
 - Fitness
 - and more...
 
 ### Description
-Welcome to my GitHub portfolio, where I showcase my expertise in modern UI/UX design. This portfolio comprises projects spanning various domains such as travel, banking, fitness, and more. By leveraging user research, rigorous testing, and the application of the latest design principles, I aim to create enhanced user experiences.
+Welcome to my GitHub wireframe designs folder! Here, you'll find examples of my skills in modern UI/UX design. I have worked on different projects in areas like travel, banking, and fitness. To make sure my designs are user-friendly, I conduct research, perform thorough testing, and apply the latest design techniques. My goal is to create better experiences for users
 
 ### Getting Started
 To explore my work, you can visit my GitHub profile at https://github.com/bahumuhawa/wireframes.
